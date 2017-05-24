@@ -1,0 +1,2 @@
+<h1>Leave us a message</h1>
+[contact-form-7 id="4" title="Contact form 1"]

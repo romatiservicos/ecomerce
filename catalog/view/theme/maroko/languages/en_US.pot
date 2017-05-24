@@ -1,0 +1,2630 @@
+# Copyright (C) 2014 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Assyrian 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/roadthemes\n"
+"POT-Creation-Date: 2015-07-16 14:13+0700\n"
+"PO-Revision-Date: 2015-07-16 14:13+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _e;_n;__;_x;_ex\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../maroko/404.php:22
+msgid "back to homepage"
+msgstr ""
+
+#: ../maroko/archive.php:60 ../maroko/author.php:55 ../maroko/category.php:55
+#: ../maroko/image.php:53 ../maroko/index.php:60 ../maroko/search.php:51
+#: ../maroko/single.php:48 ../maroko/tag.php:55 ../maroko/theme-config.php:967
+msgid "Blog"
+msgstr ""
+
+#: ../maroko/archive.php:78 ../twentyfourteen/archive.php:31
+#: ../twentythirteen/archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../maroko/archive.php:80 ../twentyfourteen/archive.php:34
+#: ../twentythirteen/archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../maroko/archive.php:80 ../twentyfourteen/archive.php:34
+#: ../twentythirteen/archive.php:31
+msgid "F Y"
+msgstr ""
+
+#: ../maroko/archive.php:82 ../twentyfourteen/archive.php:37
+#: ../twentythirteen/archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../maroko/archive.php:82 ../twentyfourteen/archive.php:37
+#: ../twentythirteen/archive.php:33
+msgid "Y"
+msgstr ""
+
+#: ../maroko/archive.php:84 ../twentyfourteen/archive.php:40
+#: ../twentyfourteen/taxonomy-post_format.php:51
+#: ../twentythirteen/archive.php:35
+msgid "Archives"
+msgstr ""
+
+#: ../maroko/author.php:80
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../maroko/author.php:109 ../twentythirteen/author-bio.php:26
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../maroko/category.php:72 ../twentyfourteen/category.php:20
+#: ../twentythirteen/category.php:19
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:161 ../maroko/functions.php:149
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:162 ../maroko/functions.php:150
+msgid "Install Plugins"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:163 ../maroko/functions.php:151
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:175 ../maroko/functions.php:163
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:177
+#: ../maroko/class-tgm-plugin-activation.php:1956 ../maroko/functions.php:164
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:178
+#: ../maroko/class-tgm-plugin-activation.php:1644
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:532
+#: ../maroko/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1167
+#: ../maroko/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1170
+#: ../maroko/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1288
+#: ../maroko/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1312
+#: ../maroko/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1391
+#: ../maroko/woocommerce/myaccount/my-orders.php:34
+#: ../maroko/woocommerce/myaccount/my-orders.php:55
+msgid "Status"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:2070
+#: ../maroko/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:2070
+#: ../maroko/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../maroko/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../maroko/comments.php:31 ../maroko/functions.php:1146
+msgid "1 comment"
+msgstr ""
+
+#: ../maroko/comments.php:51 ../twentyfifteen/comments.php:53
+#: ../twentyfourteen/comments.php:59 ../twentythirteen/comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: ../maroko/content-audio.php:58 ../maroko/content-gallery.php:58
+#: ../maroko/content-image.php:59 ../maroko/content-video.php:55
+#: ../maroko/content.php:59 ../twentyfourteen/inc/widgets.php:127
+#: ../twentyfourteen/inc/widgets.php:172
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../maroko/content-audio.php:59 ../maroko/content-gallery.php:59
+#: ../maroko/content-image.php:60 ../maroko/content-page.php:21
+#: ../maroko/content-video.php:56 ../maroko/content.php:60
+#: ../maroko/image.php:124 ../twentyfifteen/content-link.php:36
+#: ../twentyfifteen/content-page.php:25 ../twentyfifteen/content.php:38
+#: ../twentyfifteen/image.php:59 ../twentyfourteen/content-aside.php:53
+#: ../twentyfourteen/content-audio.php:53
+#: ../twentyfourteen/content-gallery.php:53
+#: ../twentyfourteen/content-image.php:53
+#: ../twentyfourteen/content-link.php:53 ../twentyfourteen/content-page.php:22
+#: ../twentyfourteen/content-quote.php:53
+#: ../twentyfourteen/content-video.php:53 ../twentyfourteen/content.php:61
+#: ../twentyfourteen/image.php:54 ../twentythirteen/content-aside.php:20
+#: ../twentythirteen/content-audio.php:31
+#: ../twentythirteen/content-chat.php:30
+#: ../twentythirteen/content-gallery.php:31
+#: ../twentythirteen/content-image.php:30
+#: ../twentythirteen/content-link.php:31
+#: ../twentythirteen/content-quote.php:20
+#: ../twentythirteen/content-status.php:20
+#: ../twentythirteen/content-video.php:30 ../twentythirteen/content.php:48
+#: ../twentythirteen/image.php:70 ../twentythirteen/page.php:35
+msgid "Pages:"
+msgstr ""
+
+#: ../maroko/content-audio.php:66 ../maroko/content-gallery.php:65
+#: ../maroko/content-image.php:66 ../maroko/content-video.php:62
+#: ../maroko/content.php:66
+msgid "Read more"
+msgstr ""
+
+#: ../maroko/content-audio.php:86 ../maroko/content-gallery.php:85
+#: ../maroko/content-image.php:86 ../maroko/content-video.php:82
+#: ../maroko/content.php:86
+msgid "About the Author: <a href=\""
+msgstr ""
+
+#: ../maroko/content-none.php:13 ../maroko/index.php:107
+#: ../maroko/search.php:84 ../twentyfifteen/content-none.php:15
+#: ../twentyfourteen/content-none.php:12 ../twentythirteen/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: ../maroko/content-none.php:17 ../maroko/index.php:112
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../maroko/content-page.php:24 ../maroko/functions.php:1098
+#: ../maroko/image.php:151 ../maroko/woocommerce/myaccount/my-address.php:45
+#: ../twentyfifteen/content-link.php:56 ../twentyfifteen/content-page.php:35
+#: ../twentyfifteen/content-search.php:28
+#: ../twentyfifteen/content-search.php:33 ../twentyfifteen/content.php:57
+#: ../twentyfifteen/image.php:71 ../twentyfourteen/content-aside.php:40
+#: ../twentyfourteen/content-audio.php:40
+#: ../twentyfourteen/content-gallery.php:40
+#: ../twentyfourteen/content-image.php:40
+#: ../twentyfourteen/content-link.php:40 ../twentyfourteen/content-page.php:28
+#: ../twentyfourteen/content-quote.php:40
+#: ../twentyfourteen/content-video.php:40 ../twentyfourteen/content.php:42
+#: ../twentyfourteen/image.php:34
+#: ../twentyfourteen/page-templates/contributors.php:35
+#: ../twentythirteen/content-aside.php:27
+#: ../twentythirteen/content-aside.php:35
+#: ../twentythirteen/content-audio.php:38
+#: ../twentythirteen/content-chat.php:36
+#: ../twentythirteen/content-gallery.php:46
+#: ../twentythirteen/content-image.php:42
+#: ../twentythirteen/content-link.php:19
+#: ../twentythirteen/content-quote.php:32
+#: ../twentythirteen/content-status.php:26
+#: ../twentythirteen/content-video.php:42 ../twentythirteen/content.php:31
+#: ../twentythirteen/image.php:44 ../twentythirteen/page.php:39
+msgid "Edit"
+msgstr ""
+
+#: ../maroko/functions.php:152
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../maroko/functions.php:165
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../maroko/functions.php:311
+msgid "In stock"
+msgstr ""
+
+#: ../maroko/functions.php:313
+msgid "Out of stock"
+msgstr ""
+
+#: ../maroko/functions.php:334 ../maroko/functions.php:347
+#: ../maroko/functions.php:353 ../maroko/functions.php:357
+msgid "Search..."
+msgstr ""
+
+#: ../maroko/functions.php:375 ../maroko/functions.php:388
+#: ../maroko/functions.php:394 ../maroko/functions.php:398
+msgid "Search product..."
+msgstr ""
+
+#: ../maroko/functions.php:657 ../twentyfifteen/functions.php:85
+#: ../twentyfourteen/header.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: ../maroko/functions.php:658
+msgid "Top Menu"
+msgstr ""
+
+#: ../maroko/functions.php:659
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../maroko/functions.php:705 ../twentyfifteen/functions.php:161
+#: ../twentyfifteen/functions.php:169 ../twentyfifteen/functions.php:177
+#: ../twentyfourteen/functions.php:213 ../twentythirteen/functions.php:128
+#: ../twentythirteen/functions.php:134
+msgid "on"
+msgstr ""
+
+#: ../maroko/functions.php:711 ../twentyfifteen/functions.php:185
+msgid "no-subset"
+msgstr ""
+
+#: ../maroko/functions.php:962
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../maroko/functions.php:964
+msgid "Sidebar on blog page"
+msgstr ""
+
+#: ../maroko/functions.php:972
+msgid "Category Sidebar"
+msgstr ""
+
+#: ../maroko/functions.php:974
+msgid "Sidebar on product category page"
+msgstr ""
+
+#: ../maroko/functions.php:982
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../maroko/functions.php:984
+msgid "Sidebar on content pages"
+msgstr ""
+
+#: ../maroko/functions.php:992
+msgid "Sub Sidebar"
+msgstr ""
+
+#: ../maroko/functions.php:994
+msgid "Sidebar on the right side"
+msgstr ""
+
+#: ../maroko/functions.php:1016 ../maroko/single.php:68
+#: ../twentyfourteen/inc/template-tags.php:85
+#: ../twentythirteen/functions.php:300
+msgid "Post navigation"
+msgstr ""
+
+#: ../maroko/functions.php:1017 ../twentythirteen/functions.php:270
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../maroko/functions.php:1018 ../twentythirteen/functions.php:274
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../maroko/functions.php:1036 ../twentyfifteen/single.php:36
+#: ../twentyfourteen/functions.php:258
+msgid "Previous"
+msgstr ""
+
+#: ../maroko/functions.php:1037 ../twentyfifteen/single.php:33
+#: ../twentyfourteen/functions.php:259
+msgid "Next"
+msgstr ""
+
+#: ../maroko/functions.php:1061
+msgid "Pingback:"
+msgstr ""
+
+#: ../maroko/functions.php:1061
+msgid "(Edit)"
+msgstr ""
+
+#: ../maroko/functions.php:1080
+msgid "Post author"
+msgstr ""
+
+#: ../maroko/functions.php:1085
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../maroko/functions.php:1089
+msgid "Reply"
+msgstr ""
+
+#: ../maroko/functions.php:1093
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../maroko/functions.php:1136 ../maroko/functions.php:1160
+#: ../twentyfifteen/inc/template-tags.php:91
+#: ../twentyfifteen/inc/template-tags.php:99
+#: ../twentyfourteen/content-aside.php:17
+#: ../twentyfourteen/content-audio.php:17
+#: ../twentyfourteen/content-featured-post.php:28
+#: ../twentyfourteen/content-gallery.php:17
+#: ../twentyfourteen/content-image.php:17
+#: ../twentyfourteen/content-link.php:17
+#: ../twentyfourteen/content-quote.php:17
+#: ../twentyfourteen/content-video.php:17 ../twentyfourteen/content.php:19
+#: ../twentythirteen/functions.php:328 ../twentythirteen/functions.php:334
+msgid ", "
+msgstr ""
+
+#: ../maroko/functions.php:1142
+msgid "0 comments"
+msgstr ""
+
+#: ../maroko/functions.php:1144 ../maroko/functions.php:1189
+msgid " comments"
+msgstr ""
+
+#: ../maroko/functions.php:1151
+#, php-format
+msgid "/ %1$s / Tags: %2$s"
+msgstr ""
+
+#: ../maroko/functions.php:1164 ../twentyfifteen/author-bio.php:34
+#: ../twentythirteen/functions.php:343
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../maroko/functions.php:1168
+#, php-format
+msgid "/ Posted by %1$s / %2$s"
+msgstr ""
+
+#: ../maroko/functions.php:1187
+msgid "<span>0</span> comments"
+msgstr ""
+
+#: ../maroko/functions.php:1191
+msgid "<span>1</span> comment"
+msgstr ""
+
+#: ../maroko/functions.php:1196
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../maroko/functions.php:1209
+msgid "Post featured content"
+msgstr ""
+
+#: ../maroko/functions.php:1229
+msgid ""
+"This content will be used to replace the featured image, use shortcode here"
+msgstr ""
+
+#: ../maroko/image.php:140
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: ../maroko/image.php:161 ../twentyfourteen/inc/template-tags.php:50
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../maroko/image.php:162 ../twentyfourteen/inc/template-tags.php:51
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../maroko/include/roadwidgets.php:8
+msgid "Road Widgets"
+msgstr ""
+
+#: ../maroko/include/roadwidgets.php:11
+msgid "Display recent posts, comments, popular posts"
+msgstr ""
+
+#: ../maroko/include/roadwidgets.php:104
+msgid "says"
+msgstr ""
+
+#: ../maroko/include/roadwidgets.php:134 ../twentyfourteen/inc/widgets.php:255
+msgid "Title:"
+msgstr ""
+
+#: ../maroko/include/roadwidgets.php:138
+msgid "Amount:"
+msgstr ""
+
+#: ../maroko/include/roadwidgets.php:142
+msgid "Widget Type:"
+msgstr ""
+
+#: ../maroko/include/roadwidgets.php:144
+msgid "Recent Posts"
+msgstr ""
+
+#: ../maroko/include/roadwidgets.php:145
+msgid "Popular Posts"
+msgstr ""
+
+#: ../maroko/include/roadwidgets.php:146
+msgid "Recent Comments"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:9 ../maroko/theme-config.php:655
+msgid "Brand Logos"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:12 ../maroko/include/shortcodes.php:21
+#: ../maroko/include/shortcodes.php:30 ../maroko/include/shortcodes.php:67
+#: ../maroko/include/shortcodes.php:93 ../maroko/include/shortcodes.php:101
+#: ../maroko/include/shortcodes.php:111
+msgid "RoadThemes"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:18
+msgid "Categories Carousel"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:27
+msgid "Latest posts"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:36
+msgid "Number of posts"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:38
+msgid "5"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:44
+msgid "Image scale"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:55
+msgid "Excerpt length"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:57
+msgid "20"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:64
+msgid "Testimonials"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:73
+msgid "Number of testimonial"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:75
+msgid "10"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:81
+msgid "Image size"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:83
+msgid "120"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:90
+msgid "Rotating tweets"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:99
+msgid "Twitter user name"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:108
+msgid "Newsletter"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:117
+msgid "Newsletter Form ID"
+msgstr ""
+
+#: ../maroko/include/shortcodes.php:119
+msgid "1"
+msgstr ""
+
+#: ../maroko/include/wooajax.php:101
+#: ../maroko/woocommerce/cart/mini-cart.php:24
+#, php-format
+msgid "%d"
+msgstr ""
+
+#: ../maroko/include/wooajax.php:118
+msgid "Product is added to cart"
+msgstr ""
+
+#: ../maroko/include/wooajax.php:129
+#: ../maroko/woocommerce/cart/mini-cart.php:78
+msgid "View Cart"
+msgstr ""
+
+#: ../maroko/index.php:94
+msgid "No posts to display"
+msgstr ""
+
+#: ../maroko/index.php:99
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../maroko/projects/archive-project.php:19
+#: ../maroko/projects/content-single-project.php:18
+msgid "Portfolio"
+msgstr ""
+
+#: ../maroko/projects/archive-project.php:72
+#: ../maroko/woocommerce/archive-product.php:80
+msgid "All"
+msgstr ""
+
+#: ../maroko/search.php:68 ../twentyfifteen/search.php:18
+#: ../twentyfourteen/search.php:18 ../twentythirteen/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../maroko/search.php:88
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../maroko/single.php:69
+msgid "&larr;"
+msgstr ""
+
+#: ../maroko/single.php:70
+msgid "&rarr;"
+msgstr ""
+
+#: ../maroko/tag.php:71 ../twentyfourteen/tag.php:22
+#: ../twentythirteen/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../maroko/theme-config.php:114
+msgid "Section via hook"
+msgstr ""
+
+#: ../maroko/theme-config.php:115
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../maroko/theme-config.php:193
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../maroko/theme-config.php:210
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../maroko/theme-config.php:211
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../maroko/theme-config.php:212 ../twentyfifteen/inc/template-tags.php:102
+msgid "Tags"
+msgstr ""
+
+#: ../maroko/theme-config.php:217
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../maroko/theme-config.php:217
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../maroko/theme-config.php:240
+msgid "General"
+msgstr ""
+
+#: ../maroko/theme-config.php:241
+msgid "General theme options"
+msgstr ""
+
+#: ../maroko/theme-config.php:248
+msgid "Logo"
+msgstr ""
+
+#: ../maroko/theme-config.php:251 ../maroko/theme-config.php:259
+msgid "Upload logo here."
+msgstr ""
+
+#: ../maroko/theme-config.php:256
+msgid "Logo Footer"
+msgstr ""
+
+#: ../maroko/theme-config.php:264
+msgid "Favicon"
+msgstr ""
+
+#: ../maroko/theme-config.php:267
+msgid "Upload favicon here."
+msgstr ""
+
+#: ../maroko/theme-config.php:272
+msgid "Image 404"
+msgstr ""
+
+#: ../maroko/theme-config.php:273
+msgid "Image for error 404 page"
+msgstr ""
+
+#: ../maroko/theme-config.php:281
+msgid "Background"
+msgstr ""
+
+#: ../maroko/theme-config.php:282
+msgid "Use this section to upload background images, select background color"
+msgstr ""
+
+#: ../maroko/theme-config.php:290
+msgid "Body Background"
+msgstr ""
+
+#: ../maroko/theme-config.php:291
+msgid "Body background with image, color. Only work with box layout"
+msgstr ""
+
+#: ../maroko/theme-config.php:298
+msgid "Colors"
+msgstr ""
+
+#: ../maroko/theme-config.php:299
+msgid "Color options"
+msgstr ""
+
+#: ../maroko/theme-config.php:305
+msgid "Primary Color"
+msgstr ""
+
+#: ../maroko/theme-config.php:306
+msgid "Pick a color for primary color (default: #c38749)."
+msgstr ""
+
+#: ../maroko/theme-config.php:316
+msgid "Sale Label BG Color"
+msgstr ""
+
+#: ../maroko/theme-config.php:317
+msgid "Pick a color for bg sale label (default: #c38749)."
+msgstr ""
+
+#: ../maroko/theme-config.php:327
+msgid "Sale Label Text Color"
+msgstr ""
+
+#: ../maroko/theme-config.php:328
+msgid "Pick a color for sale label text (default: #ffffff)."
+msgstr ""
+
+#: ../maroko/theme-config.php:338
+msgid "Rating Star Color"
+msgstr ""
+
+#: ../maroko/theme-config.php:339
+msgid "Pick a color for star of rating (default: #c38749)."
+msgstr ""
+
+#: ../maroko/theme-config.php:349
+msgid "Header"
+msgstr ""
+
+#: ../maroko/theme-config.php:350
+msgid "Header options"
+msgstr ""
+
+#: ../maroko/theme-config.php:357
+msgid "Header Layout"
+msgstr ""
+
+#: ../maroko/theme-config.php:370
+msgid "Welcome message"
+msgstr ""
+
+#: ../maroko/theme-config.php:376
+msgid "Slider Alias"
+msgstr ""
+
+#: ../maroko/theme-config.php:377
+msgid "Enter the slider alias"
+msgstr ""
+
+#: ../maroko/theme-config.php:383
+msgid "Mobile menu label"
+msgstr ""
+
+#: ../maroko/theme-config.php:384
+msgid "The label for mobile menu (example: Menu, Go to..."
+msgstr ""
+
+#: ../maroko/theme-config.php:392
+msgid "Footer"
+msgstr ""
+
+#: ../maroko/theme-config.php:393
+msgid "Footer options"
+msgstr ""
+
+#: ../maroko/theme-config.php:399
+msgid "Product tag title"
+msgstr ""
+
+#: ../maroko/theme-config.php:405
+msgid "Twitter widget title"
+msgstr ""
+
+#: ../maroko/theme-config.php:411
+msgid "Twitter Username"
+msgstr ""
+
+#: ../maroko/theme-config.php:417
+msgid "Copyright information"
+msgstr ""
+
+#: ../maroko/theme-config.php:418
+msgid "HTML tags allowed: a, br, em, strong"
+msgstr ""
+
+#: ../maroko/theme-config.php:429
+msgid "Payment icons"
+msgstr ""
+
+#: ../maroko/theme-config.php:430
+msgid "HTML tags allowed: a, img"
+msgstr ""
+
+#: ../maroko/theme-config.php:443
+msgid "Menus"
+msgstr ""
+
+#: ../maroko/theme-config.php:450
+msgid "Menu #1"
+msgstr ""
+
+#: ../maroko/theme-config.php:451 ../maroko/theme-config.php:458
+#: ../maroko/theme-config.php:465 ../maroko/theme-config.php:472
+#: ../maroko/theme-config.php:479
+msgid "Select a menu"
+msgstr ""
+
+#: ../maroko/theme-config.php:457
+msgid "Menu #2"
+msgstr ""
+
+#: ../maroko/theme-config.php:464
+msgid "Menu #3"
+msgstr ""
+
+#: ../maroko/theme-config.php:471
+msgid "Menu #4"
+msgstr ""
+
+#: ../maroko/theme-config.php:478
+msgid "Menu Bottom"
+msgstr ""
+
+#: ../maroko/theme-config.php:487
+msgid "Products Shortcode"
+msgstr ""
+
+#: ../maroko/theme-config.php:493
+msgid "Product shortcode title #1"
+msgstr ""
+
+#: ../maroko/theme-config.php:499
+msgid "Product shortcode #1"
+msgstr ""
+
+#: ../maroko/theme-config.php:505
+msgid "Product shortcode title #2"
+msgstr ""
+
+#: ../maroko/theme-config.php:511
+msgid "Product shortcode #2"
+msgstr ""
+
+#: ../maroko/theme-config.php:519
+msgid "Fonts"
+msgstr ""
+
+#: ../maroko/theme-config.php:520
+msgid "Fonts options"
+msgstr ""
+
+#: ../maroko/theme-config.php:527
+msgid "Body font"
+msgstr ""
+
+#: ../maroko/theme-config.php:544
+msgid "Main body font."
+msgstr ""
+
+#: ../maroko/theme-config.php:556
+msgid "Heading font"
+msgstr ""
+
+#: ../maroko/theme-config.php:573
+msgid "Heading font."
+msgstr ""
+
+#: ../maroko/theme-config.php:584
+msgid "Menu font"
+msgstr ""
+
+#: ../maroko/theme-config.php:601
+msgid "Menu font."
+msgstr ""
+
+#: ../maroko/theme-config.php:614 ../twentyfourteen/inc/customizer.php:56
+msgid "Layout"
+msgstr ""
+
+#: ../maroko/theme-config.php:615
+msgid "Select page layout: Box or Full Width"
+msgstr ""
+
+#: ../maroko/theme-config.php:622
+msgid "Page Layout"
+msgstr ""
+
+#: ../maroko/theme-config.php:632
+msgid "Preset"
+msgstr ""
+
+#: ../maroko/theme-config.php:633
+msgid "Select a preset to quickly apply pre-defined colors and fonts"
+msgstr ""
+
+#: ../maroko/theme-config.php:646
+msgid "Show Style Switcher"
+msgstr ""
+
+#: ../maroko/theme-config.php:647
+msgid "The style switcher is only for preview on front-end"
+msgstr ""
+
+#: ../maroko/theme-config.php:656
+msgid "Upload brand logos and links"
+msgstr ""
+
+#: ../maroko/theme-config.php:662
+msgid "Brand title"
+msgstr ""
+
+#: ../maroko/theme-config.php:668
+msgid "Number of logos per page"
+msgstr ""
+
+#: ../maroko/theme-config.php:669
+msgid "Number of logos per page, default value: 6"
+msgstr ""
+
+#: ../maroko/theme-config.php:679 ../maroko/theme-config.php:749
+msgid "Auto scroll"
+msgstr ""
+
+#: ../maroko/theme-config.php:685 ../maroko/theme-config.php:755
+msgid "Scroll amount"
+msgstr ""
+
+#: ../maroko/theme-config.php:686
+msgid "Number of logos to scroll one time, default value: 2"
+msgstr ""
+
+#: ../maroko/theme-config.php:696 ../maroko/theme-config.php:766
+#: ../maroko/theme-config.php:1013
+msgid "Pause in (seconds)"
+msgstr ""
+
+#: ../maroko/theme-config.php:697 ../maroko/theme-config.php:767
+#: ../maroko/theme-config.php:1014
+msgid "Pause time, default value: 3000"
+msgstr ""
+
+#: ../maroko/theme-config.php:707 ../maroko/theme-config.php:777
+#: ../maroko/theme-config.php:1024
+msgid "Animate in (seconds)"
+msgstr ""
+
+#: ../maroko/theme-config.php:708 ../maroko/theme-config.php:778
+#: ../maroko/theme-config.php:1025
+msgid "Animate time, default value: 2000"
+msgstr ""
+
+#: ../maroko/theme-config.php:718
+msgid "Logos"
+msgstr ""
+
+#: ../maroko/theme-config.php:719
+msgid "Upload logo image and enter logo link."
+msgstr ""
+
+#: ../maroko/theme-config.php:721 ../maroko/theme-config.php:791
+#: ../maroko/woocommerce/class-wc-widget-cart.php:30
+msgid "Title"
+msgstr ""
+
+#: ../maroko/theme-config.php:722 ../maroko/theme-config.php:792
+msgid "Description"
+msgstr ""
+
+#: ../maroko/theme-config.php:723 ../maroko/theme-config.php:793
+msgid "Link"
+msgstr ""
+
+#: ../maroko/theme-config.php:731
+msgid "Categories carousel"
+msgstr ""
+
+#: ../maroko/theme-config.php:732
+msgid "Upload category images and links"
+msgstr ""
+
+#: ../maroko/theme-config.php:738
+msgid "Number of categories per page"
+msgstr ""
+
+#: ../maroko/theme-config.php:739
+msgid "Number of categories per page, default value: 4"
+msgstr ""
+
+#: ../maroko/theme-config.php:756
+msgid "Number of categories to scroll one time, default value: 1"
+msgstr ""
+
+#: ../maroko/theme-config.php:788 ../twentyfifteen/inc/template-tags.php:94
+msgid "Categories"
+msgstr ""
+
+#: ../maroko/theme-config.php:789
+msgid "Upload image and enter category link."
+msgstr ""
+
+#: ../maroko/theme-config.php:801
+msgid "Sidebar"
+msgstr ""
+
+#: ../maroko/theme-config.php:802
+msgid "Sidebar options"
+msgstr ""
+
+#: ../maroko/theme-config.php:808
+msgid "Main Sidebar Position"
+msgstr ""
+
+#: ../maroko/theme-config.php:809
+msgid "Sidebar on category page"
+msgstr ""
+
+#: ../maroko/theme-config.php:818
+msgid "Secondary Sidebar Position"
+msgstr ""
+
+#: ../maroko/theme-config.php:819
+msgid "Sidebar on pages"
+msgstr ""
+
+#: ../maroko/theme-config.php:828
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: ../maroko/theme-config.php:829
+msgid "Sidebar on Blog pages"
+msgstr ""
+
+#: ../maroko/theme-config.php:840
+#: ../maroko/woocommerce/checkout/review-order.php:17
+#: ../maroko/woocommerce/order/order-details.php:21
+msgid "Product"
+msgstr ""
+
+#: ../maroko/theme-config.php:841
+msgid "Use this section to select options for product"
+msgstr ""
+
+#: ../maroko/theme-config.php:847
+msgid "Shop Layout"
+msgstr ""
+
+#: ../maroko/theme-config.php:858
+msgid "Shop default view"
+msgstr ""
+
+#: ../maroko/theme-config.php:869
+msgid "Products per page"
+msgstr ""
+
+#: ../maroko/theme-config.php:870
+msgid "Amount of products per page on category page"
+msgstr ""
+
+#: ../maroko/theme-config.php:880
+msgid "Product columns"
+msgstr ""
+
+#: ../maroko/theme-config.php:881
+msgid "Amount of product columns on category page"
+msgstr ""
+
+#: ../maroko/theme-config.php:882 ../maroko/theme-config.php:894
+msgid "Only works with: 1, 2, 3, 4, 6"
+msgstr ""
+
+#: ../maroko/theme-config.php:892
+msgid "Product columns on full width shop"
+msgstr ""
+
+#: ../maroko/theme-config.php:893
+msgid "Amount of product columns on full width category page"
+msgstr ""
+
+#: ../maroko/theme-config.php:904
+msgid "Use secondary product image"
+msgstr ""
+
+#: ../maroko/theme-config.php:910
+msgid "Related products title"
+msgstr ""
+
+#: ../maroko/theme-config.php:916
+msgid "Number of related products"
+msgstr ""
+
+#: ../maroko/theme-config.php:926
+msgid "Up-Sells title"
+msgstr ""
+
+#: ../maroko/theme-config.php:932
+msgid "Cross-Sells title"
+msgstr ""
+
+#: ../maroko/theme-config.php:938
+msgid "View details text"
+msgstr ""
+
+#: ../maroko/theme-config.php:944
+msgid "View all features text"
+msgstr ""
+
+#: ../maroko/theme-config.php:945
+msgid "This is the text on quick view box"
+msgstr ""
+
+#: ../maroko/theme-config.php:951
+msgid "ShareThis/AddThis head tag"
+msgstr ""
+
+#: ../maroko/theme-config.php:952
+msgid "Paste your ShareThis or AddThis head tag here"
+msgstr ""
+
+#: ../maroko/theme-config.php:958
+msgid "ShareThis/AddThis code"
+msgstr ""
+
+#: ../maroko/theme-config.php:959
+msgid "Paste your ShareThis or AddThis code here"
+msgstr ""
+
+#: ../maroko/theme-config.php:968
+msgid "Use this section to select options for blog"
+msgstr ""
+
+#: ../maroko/theme-config.php:974
+msgid "Blog header text"
+msgstr ""
+
+#: ../maroko/theme-config.php:980
+msgid "Blog Layout"
+msgstr ""
+
+#: ../maroko/theme-config.php:991
+msgid "Read more text"
+msgstr ""
+
+#: ../maroko/theme-config.php:997
+msgid "Excerpt length on blog page"
+msgstr ""
+
+#: ../maroko/theme-config.php:1007
+msgid "Latest posts auto scroll"
+msgstr ""
+
+#: ../maroko/theme-config.php:1037
+msgid "Contact Map"
+msgstr ""
+
+#: ../maroko/theme-config.php:1038
+msgid "Use this section to select options for Google Map on contact page"
+msgstr ""
+
+#: ../maroko/theme-config.php:1044
+msgid "Show map"
+msgstr ""
+
+#: ../maroko/theme-config.php:1045
+msgid "Show map on contact page"
+msgstr ""
+
+#: ../maroko/theme-config.php:1051
+msgid "Locate by"
+msgstr ""
+
+#: ../maroko/theme-config.php:1052
+msgid "Locate marker by address or coordinate"
+msgstr ""
+
+#: ../maroko/theme-config.php:1062
+msgid "Map description"
+msgstr ""
+
+#: ../maroko/theme-config.php:1063
+msgid "The text on map popup"
+msgstr ""
+
+#: ../maroko/theme-config.php:1074
+msgid "Latitude"
+msgstr ""
+
+#: ../maroko/theme-config.php:1080
+msgid "Longtitude"
+msgstr ""
+
+#: ../maroko/theme-config.php:1086
+msgid "Address"
+msgstr ""
+
+#: ../maroko/theme-config.php:1092
+msgid "Zoom level"
+msgstr ""
+
+#: ../maroko/theme-config.php:1102
+msgid "Marker"
+msgstr ""
+
+#: ../maroko/theme-config.php:1105
+msgid "Upload marker image here, the image size is 32x47 pixels."
+msgstr ""
+
+#: ../maroko/theme-config.php:1112
+msgid "Custom CSS"
+msgstr ""
+
+#: ../maroko/theme-config.php:1113
+msgid "Add your Custom CSS code"
+msgstr ""
+
+#: ../maroko/theme-config.php:1119
+msgid "CSS Code"
+msgstr ""
+
+#: ../maroko/theme-config.php:1120
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: ../maroko/theme-config.php:1130
+msgid "Less Compiler"
+msgstr ""
+
+#: ../maroko/theme-config.php:1131
+msgid ""
+"Turn on this option to apply all theme options. Turn of when you have "
+"finished changing theme options and your site is ready."
+msgstr ""
+
+#: ../maroko/theme-config.php:1137
+msgid "Enable Less Compiler"
+msgstr ""
+
+#: ../maroko/theme-config.php:1144
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../maroko/theme-config.php:1145
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../maroko/theme-config.php:1146
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../maroko/theme-config.php:1150
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../maroko/theme-config.php:1155
+msgid "Import / Export"
+msgstr ""
+
+#: ../maroko/theme-config.php:1156
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../maroko/theme-config.php:1171
+msgid "Theme Information"
+msgstr ""
+
+#: ../maroko/theme-config.php:1188
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../maroko/theme-config.php:1189 ../maroko/theme-config.php:1195
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../maroko/theme-config.php:1194
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../maroko/theme-config.php:1199
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../maroko/theme-config.php:1219 ../maroko/theme-config.php:1220
+msgid "Theme Options"
+msgstr ""
+
+#: ../maroko/woocommerce/archive-product.php:62
+msgid "Shop All Products"
+msgstr ""
+
+#: ../maroko/woocommerce/cart/cart.php:25
+msgid "Image"
+msgstr ""
+
+#: ../maroko/woocommerce/cart/cart.php:26
+msgid "Product name"
+msgstr ""
+
+#: ../maroko/woocommerce/cart/cart.php:27
+msgid "Price"
+msgstr ""
+
+#: ../maroko/woocommerce/cart/cart.php:28
+msgid "Quantity"
+msgstr ""
+
+#: ../maroko/woocommerce/cart/cart.php:29
+#: ../maroko/woocommerce/checkout/review-order.php:18
+#: ../maroko/woocommerce/myaccount/my-orders.php:35
+#: ../maroko/woocommerce/myaccount/my-orders.php:58
+#: ../maroko/woocommerce/order/order-details.php:22
+msgid "Total"
+msgstr ""
+
+#: ../maroko/woocommerce/cart/cart.php:30
+msgid "Remove"
+msgstr ""
+
+#: ../maroko/woocommerce/cart/cart.php:68
+msgid "Available on backorder"
+msgstr ""
+
+#: ../maroko/woocommerce/cart/cart.php:105
+#: ../maroko/woocommerce/cart/mini-cart.php:52
+msgid "Remove this item"
+msgstr ""
+
+#: ../maroko/woocommerce/cart/cart.php:121
+msgid "Update Cart"
+msgstr ""
+
+#: ../maroko/woocommerce/cart/cart.php:122
+msgid "Continue Shopping"
+msgstr ""
+
+#: ../maroko/woocommerce/cart/cart.php:126
+msgid "Coupon"
+msgstr ""
+
+#: ../maroko/woocommerce/cart/cart.php:127
+msgid "Enter your coupon code if you have one."
+msgstr ""
+
+#: ../maroko/woocommerce/cart/cart.php:128
+msgid "Coupon code"
+msgstr ""
+
+#: ../maroko/woocommerce/cart/cart.php:129
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../maroko/woocommerce/cart/cross-sells.php:40
+msgid ""
+"Base on your selection, you may be interested in the \n"
+"following items:"
+msgstr ""
+
+#: ../maroko/woocommerce/cart/mini-cart.php:65
+msgid "You have no items in your shopping cart"
+msgstr ""
+
+#: ../maroko/woocommerce/cart/mini-cart.php:66
+#: ../maroko/woocommerce/cart/mini-cart.php:72
+msgid "Subtotal"
+msgstr ""
+
+#: ../maroko/woocommerce/cart/mini-cart.php:77
+msgid "Checkout"
+msgstr ""
+
+#: ../maroko/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../maroko/woocommerce/checkout/form-checkout.php:49
+msgid "Your order"
+msgstr ""
+
+#: ../maroko/woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: ../maroko/woocommerce/checkout/form-login.php:15
+msgid "Click here to login"
+msgstr ""
+
+#: ../maroko/woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: ../maroko/woocommerce/checkout/review-order.php:50
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../maroko/woocommerce/checkout/review-order.php:97
+msgid "Order Total"
+msgstr ""
+
+#: ../maroko/woocommerce/checkout/thankyou.php:16
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: ../maroko/woocommerce/checkout/thankyou.php:20
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: ../maroko/woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: ../maroko/woocommerce/checkout/thankyou.php:26
+#: ../maroko/woocommerce/myaccount/my-orders.php:68
+msgid "Pay"
+msgstr ""
+
+#: ../maroko/woocommerce/checkout/thankyou.php:28
+msgid "My Account"
+msgstr ""
+
+#: ../maroko/woocommerce/checkout/thankyou.php:34
+#: ../maroko/woocommerce/checkout/thankyou.php:65
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../maroko/woocommerce/checkout/thankyou.php:38
+msgid "Order:"
+msgstr ""
+
+#: ../maroko/woocommerce/checkout/thankyou.php:42
+msgid "Date:"
+msgstr ""
+
+#: ../maroko/woocommerce/checkout/thankyou.php:46
+msgid "Total:"
+msgstr ""
+
+#: ../maroko/woocommerce/checkout/thankyou.php:51
+msgid "Payment method:"
+msgstr ""
+
+#: ../maroko/woocommerce/class-wc-widget-cart.php:23
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: ../maroko/woocommerce/class-wc-widget-cart.php:25
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: ../maroko/woocommerce/class-wc-widget-cart.php:29
+#: ../maroko/woocommerce/class-wc-widget-cart.php:54
+msgid "Cart"
+msgstr ""
+
+#: ../maroko/woocommerce/class-wc-widget-cart.php:35
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: ../maroko/woocommerce/content-product-archive.php:98
+#: ../maroko/woocommerce/content-product-archive.php:135
+#: ../maroko/woocommerce/content-product.php:86
+#: ../maroko/woocommerce/content-product.php:123
+msgid "Quick View"
+msgstr ""
+
+#: ../maroko/woocommerce/content-product-archive.php:103
+#: ../maroko/woocommerce/content-product.php:91
+#: ../maroko/woocommerce/single-product/sale-flash.php:16
+msgid "Sale"
+msgstr ""
+
+#: ../maroko/woocommerce/loop/orderby.php:14
+msgid "Sort By"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/form-login.php:29
+#: ../maroko/woocommerce/myaccount/form-login.php:49
+msgid "Login"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/form-login.php:38
+#: ../maroko/woocommerce/myaccount/form-login.php:88
+msgid "Password"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/form-login.php:47
+msgid "Lost your password?"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/form-login.php:51
+msgid "Remember me"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/form-login.php:67
+#: ../maroko/woocommerce/myaccount/form-login.php:104
+msgid "Register"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/form-login.php:74
+msgid "Username"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/form-login.php:81
+msgid "Email address"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/form-login.php:95
+msgid "Anti-spam"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/form-lost-password.php:48
+msgid "Reset Password"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/form-lost-password.php:48
+msgid "Save"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/my-address.php:19
+#: ../maroko/woocommerce/myaccount/my-address.php:25
+#: ../maroko/woocommerce/order/order-details.php:196
+msgid "Billing Address"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/my-address.php:20
+#: ../maroko/woocommerce/order/order-details.php:215
+msgid "Shipping Address"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/my-downloads.php:20
+msgid "Available downloads"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/my-downloads.php:29
+#, php-format
+msgid "%s download remaining"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/my-orders.php:33
+#: ../maroko/woocommerce/myaccount/my-orders.php:52
+msgid "Date"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/my-orders.php:47
+msgid "Order Number"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/my-orders.php:59
+#, php-format
+msgid "%s for %s item"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/my-orders.php:75
+msgid "Cancel"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/my-orders.php:81
+msgid "View"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/view-order.php:19
+#, php-format
+msgid ""
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/view-order.php:23
+msgid "Order Updates"
+msgstr ""
+
+#: ../maroko/woocommerce/myaccount/view-order.php:29
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: ../maroko/woocommerce/order/order-details.php:17
+msgid "Order Details"
+msgstr ""
+
+#: ../maroko/woocommerce/order/order-details.php:60
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: ../maroko/woocommerce/order/order-details.php:126
+#: ../maroko/woocommerce/order/order-details.php:130
+#, php-format
+msgid "(Includes %s)"
+msgstr ""
+
+#: ../maroko/woocommerce/order/order-details.php:148
+msgid "Refunded:"
+msgstr ""
+
+#: ../maroko/woocommerce/order/order-details.php:157
+msgid "Note:"
+msgstr ""
+
+#: ../maroko/woocommerce/order/order-details.php:167
+msgid "Customer details"
+msgstr ""
+
+#: ../maroko/woocommerce/order/order-details.php:174
+msgid "Email:"
+msgstr ""
+
+#: ../maroko/woocommerce/order/order-details.php:174
+#: ../maroko/woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: ../maroko/woocommerce/order/order-details.php:178
+msgid "Telephone:"
+msgstr ""
+
+#: ../maroko/woocommerce/order/order-details.php:178
+msgid "Telephone"
+msgstr ""
+
+#: ../maroko/woocommerce/order/order-details.php:201
+#: ../maroko/woocommerce/order/order-details.php:220
+msgid "N/A"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review for %s"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../maroko/woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product-reviews.php:76
+msgid "Your Rating"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product-reviews.php:77
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product-reviews.php:78
+msgid "Perfect"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product-reviews.php:79
+msgid "Good"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product-reviews.php:80
+msgid "Average"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product-reviews.php:81
+msgid "Not that bad"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product-reviews.php:82
+msgid "Very Poor"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product-reviews.php:86
+msgid "Your Review"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product-reviews.php:95
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../maroko/woocommerce/single-product/add-to-cart/variable.php:27
+msgid "Choose an option"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product/add-to-cart/variable.php:62
+msgid "Clear selection"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product/add-to-cart/variable.php:92
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../maroko/woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product/rating.php:30
+#, php-format
+msgid "based on %s customer rating"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product/rating.php:33
+#, php-format
+msgid "%s customer review"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr ""
+
+#: ../maroko/woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: ../twentyfifteen/404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../twentyfifteen/404.php:21 ../twentyfourteen/404.php:21
+#: ../twentythirteen/404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../twentyfifteen/archive.php:49 ../twentyfifteen/index.php:46
+#: ../twentyfifteen/search.php:38
+msgid "Previous page"
+msgstr ""
+
+#: ../twentyfifteen/archive.php:50 ../twentyfifteen/index.php:47
+#: ../twentyfifteen/search.php:39
+msgid "Next page"
+msgstr ""
+
+#: ../twentyfifteen/archive.php:51 ../twentyfifteen/content-link.php:40
+#: ../twentyfifteen/content-page.php:29 ../twentyfifteen/content.php:42
+#: ../twentyfifteen/image.php:63 ../twentyfifteen/index.php:48
+#: ../twentyfifteen/search.php:40
+msgid "Page"
+msgstr ""
+
+#: ../twentyfifteen/author-bio.php:12
+msgid "Published by"
+msgstr ""
+
+#: ../twentyfifteen/content-link.php:31 ../twentyfifteen/content.php:33
+#: ../twentyfifteen/inc/template-tags.php:237
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: ../twentyfifteen/content-none.php:22 ../twentyfourteen/content-none.php:18
+#: ../twentythirteen/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../twentyfifteen/content-none.php:26 ../twentyfourteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../twentyfifteen/content-none.php:31 ../twentyfourteen/content-none.php:27
+#: ../twentythirteen/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../twentyfifteen/footer.php:25
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: ../twentyfifteen/footer.php:25 ../twentyfourteen/footer.php:21
+#: ../twentythirteen/footer.php:19
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:86
+msgid "Social Links Menu"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:133
+msgid "Widget Area"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:135
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: ../twentyfifteen/functions.php:255
+msgid "expand child menu"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:256
+msgid "collapse child menu"
+msgstr ""
+
+#: ../twentyfifteen/header.php:26 ../twentyfourteen/header.php:53
+#: ../twentythirteen/header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: ../twentyfifteen/header.php:43
+msgid "Menu and widgets"
+msgstr ""
+
+#: ../twentyfifteen/image.php:24 ../twentyfourteen/image.php:65
+msgid "Previous Image"
+msgstr ""
+
+#: ../twentyfifteen/image.php:24 ../twentyfourteen/image.php:66
+msgid "Next Image"
+msgstr ""
+
+#: ../twentyfifteen/image.php:84
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#: ../twentyfifteen/inc/back-compat.php:37
+#: ../twentyfifteen/inc/back-compat.php:47
+#: ../twentyfifteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Fifteen requires at least WordPress version 4.1. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:31
+msgid "Base Color Scheme"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:46
+msgid "Header and Sidebar Text Color"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:47
+#: ../twentyfifteen/inc/customizer.php:63
+#: ../twentyfifteen/inc/customizer.php:68
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:62
+msgid "Header and Sidebar Background Color"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:92
+msgid "Default"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:103
+msgid "Dark"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:114
+msgid "Yellow"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:125
+msgid "Pink"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:136
+msgid "Purple"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:147
+msgid "Blue"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:23 ../twentyfourteen/comments.php:34
+#: ../twentyfourteen/comments.php:52 ../twentythirteen/comments.php:45
+msgid "Comment navigation"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:26
+msgid "Older Comments"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:49
+msgid "Featured"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:55
+msgid "Format"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:76
+msgid "Posted on"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:85
+msgid "Author"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:113
+msgid "Full size"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:122
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+#: ../twentythirteen/content-gallery.php:43
+#: ../twentythirteen/content-image.php:39
+#: ../twentythirteen/content-quote.php:29
+#: ../twentythirteen/content-video.php:39 ../twentythirteen/content.php:56
+msgid "Leave a comment"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:122
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+msgid "1 Comment"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:122
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+msgid "% Comments"
+msgstr ""
+
+#: ../twentyfifteen/single.php:34
+msgid "Next post:"
+msgstr ""
+
+#: ../twentyfifteen/single.php:37
+msgid "Previous post:"
+msgstr ""
+
+#: ../twentyfourteen/404.php:17 ../twentythirteen/404.php:16
+msgid "Not Found"
+msgstr ""
+
+#: ../twentyfourteen/author.php:31 ../twentythirteen/author.php:31
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:27
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:35 ../twentyfourteen/comments.php:53
+#: ../twentythirteen/comments.php:46
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:36 ../twentyfourteen/comments.php:54
+#: ../twentythirteen/comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:48
+#: ../twentyfourteen/content-audio.php:48
+#: ../twentyfourteen/content-gallery.php:48
+#: ../twentyfourteen/content-image.php:48
+#: ../twentyfourteen/content-link.php:48
+#: ../twentyfourteen/content-quote.php:48
+#: ../twentyfourteen/content-video.php:48 ../twentyfourteen/content.php:56
+#: ../twentyfourteen/inc/template-tags.php:222
+#: ../twentythirteen/content-aside.php:16
+#: ../twentythirteen/content-audio.php:27
+#: ../twentythirteen/content-chat.php:26
+#: ../twentythirteen/content-gallery.php:27
+#: ../twentythirteen/content-image.php:26
+#: ../twentythirteen/content-link.php:27
+#: ../twentythirteen/content-quote.php:16
+#: ../twentythirteen/content-status.php:16
+#: ../twentythirteen/content-video.php:26 ../twentythirteen/content.php:44
+#: ../twentythirteen/functions.php:478
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/footer.php:21 ../twentythirteen/footer.php:19
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:83
+msgid "Top primary menu"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:84
+msgid "Secondary menu in left sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:171
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:173
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:180
+msgid "Content Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:182
+msgid "Additional sidebar that appears on the right."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:189
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:191 ../twentythirteen/functions.php:233
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:376
+#, php-format
+msgid "%d Article"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:495 ../twentythirteen/functions.php:218
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../twentyfourteen/header.php:48
+msgid "Search"
+msgstr ""
+
+#: ../twentyfourteen/inc/back-compat.php:37
+#: ../twentyfourteen/inc/back-compat.php:47
+#: ../twentyfourteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Fourteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:24
+msgid "Site Title Color"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:27
+msgid "Display Site Title &amp; Tagline"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:31
+#: ../twentyfourteen/inc/customizer.php:32
+msgid "May only be visible on wide screens."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:34
+#: ../twentyfourteen/inc/customizer.php:35
+msgid "Background may only be visible on wide screens."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:40
+#: ../twentyfourteen/inc/featured-content.php:403
+msgid "Featured Content"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:41
+#: ../twentyfourteen/inc/featured-content.php:404
+#, php-format
+msgid ""
+"Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the "
+"tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:42
+#: ../twentyfourteen/inc/customizer.php:108
+#: ../twentyfourteen/inc/featured-content.php:405
+#: ../twentyfourteen/inc/featured-content.php:414
+#: ../twentyfourteen/inc/featured-content.php:474
+msgid "featured"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:60
+msgid "Grid"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:61
+msgid "Slider"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:105
+msgid "Twenty Fourteen"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:108
+#, php-format
+msgid ""
+"The home page features your choice of up to 6 posts prominently displayed in "
+"a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change "
+"the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If "
+"no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed "
+"instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:109
+#, php-format
+msgid ""
+"Enhance your site design by using <a href=\"%s\">Featured Images</a> for "
+"posts you&rsquo;d like to stand out (also known as post thumbnails). This "
+"allows you to associate an image with your post without inserting it. Twenty "
+"Fourteen uses featured images for posts and pages&mdash;above the "
+"title&mdash;and in the Featured Content area on the home page."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:110
+#, php-format
+msgid ""
+"For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s"
+"\">Twenty Fourteen documentation</a>."
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:426
+msgid "Tag Name"
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:431
+msgid "Don&rsquo;t display tag on front end."
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:58
+#: ../twentythirteen/functions.php:266
+msgid "Posts navigation"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:89
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:92
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:109
+msgid "Sticky"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:34
+msgid "Twenty Fourteen Ephemera"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:36
+msgid ""
+"Use this widget to list your recent Aside, Quote, Video, Audio, Image, "
+"Gallery, and Link posts."
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:54
+#: ../twentyfourteen/taxonomy-post_format.php:33
+msgid "Images"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:55
+msgid "More images"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:58
+#: ../twentyfourteen/taxonomy-post_format.php:36
+msgid "Videos"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:59
+msgid "More videos"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:62
+#: ../twentyfourteen/taxonomy-post_format.php:39
+msgid "Audio"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:63
+msgid "More audio"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:66
+#: ../twentyfourteen/taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:67
+msgid "More quotes"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:70
+#: ../twentyfourteen/taxonomy-post_format.php:45
+msgid "Links"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:71
+msgid "More links"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:74
+#: ../twentyfourteen/taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:75
+msgid "More galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:79
+#: ../twentyfourteen/taxonomy-post_format.php:30
+msgid "Asides"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:80
+msgid "More asides"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:162
+#, php-format
+msgid "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:206
+#, php-format
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:258
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:261
+msgid "Post format to show:"
+msgstr ""
+
+#: ../twentythirteen/404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:30
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:43
+#: ../twentythirteen/content-image.php:39
+#: ../twentythirteen/content-quote.php:29
+#: ../twentythirteen/content-video.php:39 ../twentythirteen/content.php:56
+msgid "One comment so far"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:43
+#: ../twentythirteen/content-image.php:39
+#: ../twentythirteen/content-quote.php:29
+#: ../twentythirteen/content-video.php:39 ../twentythirteen/content.php:56
+#, php-format
+msgid "View all % comments"
+msgstr ""
+
+#: ../twentythirteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../twentythirteen/functions.php:97
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../twentythirteen/functions.php:231
+msgid "Main Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:241
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:243
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: ../twentythirteen/functions.php:303
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: ../twentythirteen/functions.php:304
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/functions.php:363
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ../twentythirteen/functions.php:369
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../twentythirteen/header.php:43
+msgid "Menu"
+msgstr ""
+
+#: ../twentythirteen/image.php:22
+#, php-format
+msgid ""
+"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" "
+"rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#: ../twentythirteen/image.php:39
+msgid "Full resolution"
+msgstr ""
+
+#: ../twentythirteen/image.php:51
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../twentythirteen/image.php:52
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/inc/back-compat.php:37
+#: ../twentythirteen/inc/back-compat.php:47
+#: ../twentythirteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Thirteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentythirteen/inc/custom-header.php:49
+msgid "Circle"
+msgstr ""
+
+#: ../twentythirteen/inc/custom-header.php:54
+msgid "Diamond"
+msgstr ""
+
+#: ../twentythirteen/inc/custom-header.php:59
+msgid "Star"
+msgstr ""
+
+#: ../twentythirteen/taxonomy-post_format.php:23
+#, php-format
+msgid "%s Archives"
+msgstr ""

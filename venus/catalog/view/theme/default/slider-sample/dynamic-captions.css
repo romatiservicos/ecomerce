@@ -1,0 +1,43 @@
+.tp-caption.h2 {
+font-size:24px;
+line-height:32px;
+font-weight:400;
+font-family:Raleway;
+color:#ffffff;
+text-decoration:none;
+padding:0px 20px 0px 20px;
+background-color:rgb(230, 89, 92);
+background-color:rgba(230, 89, 92, 1);
+text-transform:uppercase;
+letter-spacing:5px;
+border-width:0px;
+border-color:rgb(34, 34, 34);
+border-style:none;
+}
+
+.tp-caption.time {
+font-size:22px;
+line-height:22px;
+font-weight:700;
+font-family:"Montserrat";
+color:#c38749;
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(195, 135, 73);
+border-style:none;
+}
+
+.tp-caption.slider2h1 {
+font-size:222px;
+font-weight:900;
+font-family:Raleway;
+color:rgb(255, 255, 255);
+text-decoration:none;
+text-transform:uppercase;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+}
+

@@ -1,0 +1,73 @@
+/* Less Variables */
+
+// Fonts
+
+@bodyfont: @body_font, Arial, Helvetica, sans-serif;
+@headingfont: @heading_font, Arial, Helvetica, sans-serif;
+@menufont: @menu_font, Arial, Helvetica, sans-serif;
+/*Bootstrap icon font: 'Glyphicons Halflings'*/
+
+// Colors
+@textcolor: @text_color;
+@headingcolor: @heading_color;
+@menucolor: @menu_color;
+
+@primarycolor: @primary_color;
+@salecolor: @sale_color;
+@saletextcolor: @saletext_color;
+@ratecolor: @rate_color;
+
+// Defined colors
+
+@selectcolor: #999999;
+@darkcolor: #2f2f2f;
+@greycolor: #909295;
+@browncolor: #c38749;
+@lightgreycolor: #6e6e6e;
+@bordercolor: #d3d3d3;
+
+
+@headerbg: @header_bg;
+@headercolor: #adadad;
+@navbg: @nav_bg;
+
+@footerbg: #252525;
+@footerborder: #363636;
+@footercolor: #b6b6b6; 
+
+// animate
+
+@-webkit-keyframes slideInDown {
+  0% {
+    -webkit-transform: translateY(-200%);
+    transform: translateY(-200%);
+    visibility: visible;
+    opacity: 0;
+  }
+
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideInDown {
+  0% {
+    -webkit-transform: translateY(-200%);
+    transform: translateY(-200%);
+    visibility: visible;
+    opacity: 0;
+  }
+
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.slideInDown {
+  -webkit-animation-name: slideInDown;
+          animation-name: slideInDown;
+}

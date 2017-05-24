@@ -1,0 +1,544 @@
+2017-05-05 18:03:53 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.tpl
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/controller/extension/module/carousel.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/controller/extension/module/banner.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/controller/extension/module/slideshow.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/simplica/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+LINE: 42
+----------------------------------------------------------------
+MOD: Instalador sem FTP
+
+FILE: admin/controller/extension/installer.php
+CODE: public function ftp() {
+LINE: 251
+CODE: public function sql() {
+LINE: 509
+----------------------------------------------------------------
+2017-05-05 18:04:55 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.tpl
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/controller/extension/module/carousel.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/controller/extension/module/banner.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/controller/extension/module/slideshow.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/simplica/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+LINE: 42
+----------------------------------------------------------------
+MOD: Instalador sem FTP
+
+FILE: admin/controller/extension/installer.php
+CODE: public function ftp() {
+LINE: 251
+CODE: public function sql() {
+LINE: 509
+----------------------------------------------------------------
+2017-05-05 18:05:05 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.tpl
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/controller/extension/module/carousel.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/controller/extension/module/banner.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/controller/extension/module/slideshow.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/simplica/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+LINE: 42
+----------------------------------------------------------------
+MOD: Instalador sem FTP
+
+FILE: admin/controller/extension/installer.php
+CODE: public function ftp() {
+LINE: 251
+CODE: public function sql() {
+LINE: 509
+----------------------------------------------------------------
+2017-05-05 18:05:44 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.tpl
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/controller/extension/module/carousel.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/controller/extension/module/banner.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/controller/extension/module/slideshow.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/simplica/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+LINE: 42
+----------------------------------------------------------------
+MOD: Instalador sem FTP
+
+FILE: admin/controller/extension/installer.php
+CODE: public function ftp() {
+LINE: 251
+CODE: public function sql() {
+LINE: 509
+----------------------------------------------------------------
+2017-05-05 18:12:10 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.tpl
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/controller/extension/module/carousel.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/controller/extension/module/banner.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/controller/extension/module/slideshow.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/simplica/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+LINE: 42
+----------------------------------------------------------------
+MOD: Instalador sem FTP
+
+FILE: admin/controller/extension/installer.php
+CODE: public function ftp() {
+LINE: 251
+CODE: public function sql() {
+LINE: 509
+----------------------------------------------------------------
+2017-05-05 18:24:16 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.tpl
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/controller/extension/module/carousel.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/controller/extension/module/banner.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/controller/extension/module/slideshow.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/simplica/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+LINE: 42
+----------------------------------------------------------------
+MOD: Instalador sem FTP
+
+FILE: admin/controller/extension/installer.php
+CODE: public function ftp() {
+LINE: 251
+CODE: public function sql() {
+LINE: 509
+----------------------------------------------------------------
+2017-05-05 18:24:20 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.tpl
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/controller/extension/module/carousel.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/controller/extension/module/banner.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/controller/extension/module/slideshow.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/simplica/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+LINE: 42
+----------------------------------------------------------------
+MOD: Instalador sem FTP
+
+FILE: admin/controller/extension/installer.php
+CODE: public function ftp() {
+LINE: 251
+CODE: public function sql() {
+LINE: 509
+----------------------------------------------------------------
+2017-05-08 16:26:32 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.tpl
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/controller/extension/module/carousel.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/controller/extension/module/banner.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/controller/extension/module/slideshow.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/owl-carousel/owl.carousel.css');
+LINE: 8
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/simplica/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+LINE: 42
+----------------------------------------------------------------
+MOD: Instalador sem FTP
+
+FILE: admin/controller/extension/installer.php
+CODE: public function ftp() {
+LINE: 251
+CODE: public function sql() {
+LINE: 509
+----------------------------------------------------------------
